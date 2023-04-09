@@ -1,6 +1,6 @@
 ### :wave: Hi there, I'm Nguyen Quang Huy
-- :book: I’m studying at Posts and Telecommunications Institute of Technology (PTIT).
-- :office: I'm also a Computer Science lecturer at MindX Technology School.
+- :book: I’m studying IT at Posts and Telecommunications Institute of Technology (PTIT).
+- :office: I'm also a Computer Science lecturer at MindX Technology School and AI Intern at ThinkDiff Co., Ltd.
 - :mortar_board: Code: C/C++, Java, Python.
 - :computer: I’m learning about AI.
 - :mega: Currently I am looking for a job related to Machine learning, Deep learning, if possible I want to try Computer Vision.
