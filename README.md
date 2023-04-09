@@ -1,7 +1,17 @@
-### Hi there 👋
+### :wave: Hi there, I'm Nguyen Quang Huy
+- :book: I’m studying at Posts and Telecommunications Institute of Technology (PTIT).
+- :office: I'm also a Computer Science lecturer at MindX Technology School.
+- :mortar_board: Code: C/C++, Java, Python.
+- :computer: I’m learning about AI.
+- :mega: Currently I am looking for a job related to Machine learning, Deep learning, if possible I want to try Computer Vision.
+### :mailbox_closed: How to reach me:
+ [![Facebook: Nguyen Quang Huy](https://img.shields.io/badge/-Nguyen%20Quang%20Huy-white?logo=Facebook)](https://www.facebook.com/shuttfubbb)
+ [![Instagram: shuttfubbb](https://img.shields.io/badge/-shuttfubbb-white?logo=Instagram)](https://www.instagram.com/shuttfubbb/)
+ [![Github: Follow@ngquanghuy](https://img.shields.io/github/followers/huytre123qwe?logo=Github&style=social)](https://github.com/huytre123qwe)
+ <br>or :email: huynguyenquang640@gmail.com
 
 <!--
-**shuttfubbb/shuttfubbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**huytre123qwe/huytre123qwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
